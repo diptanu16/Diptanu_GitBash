@@ -1,1 +1,1 @@
-# This is a practice hub of GItHub
+# This is a practice zone of GItHub
